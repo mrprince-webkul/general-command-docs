@@ -1,7 +1,3 @@
-Here’s a **curated list of useful Unix/Linux commands**, grouped by category, with short explanations and real-world examples. These are great candidates for your community repository 👇
-
----
-
 ## 📁 File & Directory Management
 
 ```bash
@@ -275,14 +271,3 @@ time php artisan migrate
 ```
 
 Measure execution time of a command.
-
----
-
-If you want, I can:
-
-* Convert this into `commands/unix.md`
-* Add **advanced Unix commands**
-* Add **production-safe vs dangerous commands**
-* Add **macOS vs Linux differences**
-
-Just tell me 👍
