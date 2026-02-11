@@ -41,14 +41,14 @@ Each section focuses on **clarity**, **real usage examples**, and **short explan
 .
 ├── README.md               # Project overview
 ├── commands/
+│   ├── Command.md          # Common command references
+│   ├── Docker.md           # Docker & container commands
+│   ├── general.md          # General development utilities
 │   ├── git.md              # Git & GitHub commands
-│   ├── docker.md           # Docker & container commands
-│   ├── server.md           # Server & SSH utilities
-│   ├── database.md         # Database setup & tools
-│   └── misc.md             # Miscellaneous helpers
-├── best-practices.md
-├── release-checklist.md
-└── CONTRIBUTING.md
+│   └── unix.md             # Unix / Linux commands
+├── best-practices.md       # Coding & usage guidelines
+└── release-checklist.md    # Release preparation checklist
+
 ```
 
 > The structure may evolve as the community grows.
